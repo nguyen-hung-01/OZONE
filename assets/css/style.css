@@ -140,7 +140,7 @@ a {
     position: relative;
     height: 886px;
     padding-top: 50%;
-    background: url(/assets/img/image\ 3.png) top center / cover no-repeat;
+    background: url(../img/image\ 3.png) top center / cover no-repeat;
 }
 .slider-content {
     display: flex;
@@ -262,7 +262,7 @@ a {
     position: relative;
     height: 786px;
     padding-top: 50%;
-    background: url(/assets/img/Rectangle\ 331.png) top center / cover no-repeat;
+    background: url(../assets/img/Rectangle\ 331.png) top center / cover no-repeat;
     display: flex;
     justify-content: center;
 }
@@ -394,7 +394,7 @@ a {
     align-items: center;
     position: relative;
     height: 838px;
-    background: url(/assets/img/BG\ client.png) top center / cover no-repeat; 
+    background: url(../assets/img/FEEDBACK.png) top center / cover no-repeat; 
 }
 .feedback-title{
     text-align: center;
@@ -458,7 +458,7 @@ a {
 /* CONTACT */
 #contact {
     height: 212px;
-    background: url(/assets/img/Rectangle\ 310.png) top center / cover no-repeat; 
+    background: url(../img/Rectangle\ 310.png) top center / cover no-repeat; 
     position: relative;
     display: flex;
     justify-content: center;
